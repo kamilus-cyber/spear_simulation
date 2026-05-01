@@ -37,4 +37,4 @@ The essay
 A full explanation of the correspondence between the poetry, the paper, and the code — including what broke when the mechanisms were wrong and what the simulation produced when they were right — is published on Substack: [link]
 The source texts
 
-The Spear of Compassion — Amazon [link]
+The Spear of Compassion — Amazon [https://www.amazon.nl/-/en/%E2%88%9A-%CF%80%C2%B2-ebook/dp/B0G8DHG2TF/ref=cm_cr_arp_d_product_top?ie=UTF8#detailBullets_feature_div]
